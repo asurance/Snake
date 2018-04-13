@@ -1,0 +1,6 @@
+D:\谢宇超\贪吃蛇\贪吃蛇\bin\Debug\贪吃蛇.exe.config
+D:\谢宇超\贪吃蛇\贪吃蛇\bin\Debug\贪吃蛇.exe
+D:\谢宇超\贪吃蛇\贪吃蛇\bin\Debug\贪吃蛇.pdb
+D:\谢宇超\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.csprojResolveAssemblyReference.cache
+D:\谢宇超\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.exe
+D:\谢宇超\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.pdb
