@@ -1,0 +1,7 @@
+D:\Gitub\tmp\New\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Gitub\tmp\New\Snake\Snake\bin\Debug\Snake.exe
+D:\Gitub\tmp\New\Snake\Snake\bin\Debug\Snake.pdb
+D:\Gitub\tmp\New\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+D:\Gitub\tmp\New\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Gitub\tmp\New\Snake\Snake\obj\Debug\Snake.exe
+D:\Gitub\tmp\New\Snake\Snake\obj\Debug\Snake.pdb
