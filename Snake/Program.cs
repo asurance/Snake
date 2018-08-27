@@ -249,7 +249,8 @@ namespace Snake
         /// <param name="info">信息</param>
         static void RefreshInfo(string info)
         {
-            lock (rdn)
+            Object obj = new Object();
+            lock (obj)
             {
                 Console.SetCursorPosition(0, length0);
                 for (int i = 0; i < length1; i++)
@@ -270,7 +271,8 @@ namespace Snake
             if (Console.KeyAvailable)
             {
                 string res;
-                lock (rdn)
+                Object obj = new Object();
+                lock (obj)
                 {
                     Console.SetCursorPosition(length1 - 2, length0);
                     res = Console.ReadKey().Key.ToString();
@@ -293,7 +295,8 @@ namespace Snake
         static void Set(Point pos, int type)
         {
             Map[pos.y, pos.x] = type;
-            lock (rdn)
+            Object obj = new Object();
+            lock (obj)
             {
                 Console.SetCursorPosition(pos.x * 2, pos.y);
                 switch (type)
